@@ -1,0 +1,1 @@
+{"buildTargets":["all","build/driver/elevio.o","build/elevator.o","build/fsm.o","build/main.o","build/queue.o","build/timer.o","clean","elevator","rebuild"],"launchTargets":["/home/student/Desktop/TTK4235>elevator()"],"customConfigurationProvider":{"workspaceBrowse":{"browsePath":[]},"fileIndex":[]}}

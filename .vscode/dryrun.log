@@ -1,0 +1,5 @@
+make --dry-run --keep-going --print-directory
+make: Entering directory '/home/student/Desktop/TTK4235'
+clang build/elevator.o build/driver/elevio.o build/main.o build/queue.o build/fsm.o build/timer.o -o elevator -fsanitize=address
+make: Leaving directory '/home/student/Desktop/TTK4235'
+ 
